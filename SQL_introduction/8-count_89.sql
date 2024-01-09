@@ -1,0 +1,2 @@
+-- COUNTS IN SQL.
+SELECT COUNT(eID) FROM first_table;
