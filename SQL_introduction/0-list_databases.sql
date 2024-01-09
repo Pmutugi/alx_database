@@ -1,3 +1,3 @@
---sql to show list of databases--
+-- sql to show list of databases.
 
 SHOW databases;
