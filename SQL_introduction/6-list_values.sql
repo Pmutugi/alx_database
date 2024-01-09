@@ -1,2 +1,2 @@
 -- LISTING ALL ROWS IN THE TABLE.
-SHOW ALL ROWS first_table;
+SELECT * FROM first_table;
