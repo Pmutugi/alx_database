@@ -1,2 +1,2 @@
 -- COUNTS IN SQL.
-SELECT COUNT(eID) FROM first_table;
+SELECT COUNT(ID=89) FROM first_table;
